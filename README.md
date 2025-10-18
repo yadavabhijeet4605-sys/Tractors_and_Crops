@@ -2,7 +2,7 @@
 
 A web‑based project about agriculture, showcasing information on crops, tractors, and more.
 
-Live Demo: (https://5cmfnq1v-5500.inc1.devtunnels.ms/index.html) ([github.com]([(https://github.com/yadavabhijeet4605-sys/Tractors_and_Crops)])
+Live Demo: (https://5cmfnq1v-5500.inc1.devtunnels.ms/index.html) ([github.com][(https://github.com/yadavabhijeet4605-sys/Tractors_and_Crops)]
 
 ---
 
