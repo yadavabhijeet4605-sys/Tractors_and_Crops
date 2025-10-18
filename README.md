@@ -2,7 +2,7 @@
 
 A web‑based project about agriculture, showcasing information on crops, tractors, and more.
 
-Live Demo: (https://5cmfnq1v-5500.inc1.devtunnels.ms/index.html) ([github.com](https://github.com/OmkarPawar1880/Minor_Project))
+Live Demo: (https://5cmfnq1v-5500.inc1.devtunnels.ms/index.html) ([github.com]([(https://github.com/yadavabhijeet4605-sys/Tractors_and_Crops)])
 
 ---
 
@@ -82,7 +82,7 @@ To run / develop locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/OmkarPawar1880/Minor_Project.git
+   git clone https://github.com/yadavabhijeet4605-sys/Tractors_and_Crops
    cd Minor_Project
    ```
 
@@ -130,8 +130,8 @@ Please follow project style (HTML/CSS structure) and ensure pages are consistent
 
 ## Contact
 
-- Author: Omkar Pawar  
-- Repo: [https://github.com/OmkarPawar1880/Minor_Project](https://github.com/OmkarPawar1880/Minor_Project) ([github.com](https://github.com/OmkarPawar1880/Minor_Project))  
+- Author: Abhijeet Yadav 
+- Repo: [https://github.com/yadavabhijeet4605-sys/Tractors_and_Crops](https://github.com/yadavabhijeet4605-sys/Tractors_and_Crops) ([github.com](https://github.com/yadavabhijeet4605-sys/Tractors_and_Crops))  
 - Feel free to open issues or reach out for improvements.
 
 ---
