@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AgroSupport</title>
+    </head>
+    <link rel="stylesheet" href="Agrosupport.css">
+    <script> 
+    function openNewpage1() {
+        window.open('mahindra_arjun.html', '_blank'); 
+    }
+    function openNewpage2() {
+        window.open('john_dere.html', '_blank'); 
+    }
+    function openNewpage3() {
+        window.open('sonalika.html', '_blank'); 
+    }
+    function openNewpage4() {
+        window.open('eicher_tractor.html', '_blank'); 
+    }
+    function openNewpage5() {
+        window.open('swaraj_tractor.html', '_blank'); 
+    }
+    
+    </script>
+<body>
+    <div class="header"></div>
+    <nav class="navbar">
+        <div class="logo" >AgroSupport</div>
+        <a href="index.html">Home</a>
+        <a href="tractors.html">Vehicles</a>
+        <a href="Articles.html">Articles</a>
+        <a href="contact&sevices.html">Contact</a>
+    </nav>
+
+    <style>
+        body{
+            background-image: url(https://www.greenamerica.org/sites/default/files/pieces/istockag2.jpg);
+            
+            
+        }
+        .image-container {
+            position: relative;
+            width: 500px; 
+            height: 500px; 
+            padding: 5px;
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .image-container img {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+        }
+
+        .info-button {
+            position: absolute;
+            bottom: 10px;
+            left: 50%;
+            transform: translateX(-50%);
+            background-color: blue;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        .info-button:hover {
+            background-color: darkblue;
+        }
+    </style>
+</head>
+<body>
+
+<div class="image-container" >
+    <img src="mahindra-arjun.jpg" alt="Sample Image">
+    <button class="info-button" onclick="openNewpage1()">Details</button>
+</div>
+
+<div class="image-container">
+
+    <img src="John Deere tractor.avif" alt="Sample Image">
+    <button class="info-button" onclick="openNewpage2()">Details</button>
+</div>
+
+<div class="image-container">
+    <img src="sonalika tractor.webp" alt="Sample Image">
+    <button class="info-button" onclick="openNewpage3()">Details</button>
+</div>
+
+<div class="image-container">
+    <img src="eicher tractor.jpg" alt="Sample Image">
+    <button class="info-button" onclick="openNewpage4()">Details</button>
+</div>
+
+<div class="image-container">
+    <img src="swaraj tractor.jpg" alt="Sample Image">
+    <button class="info-button" onclick="openNewpage5()">Details</button>
+</div>
+
+<div style="text-align: center; padding-top: 20px; border-top: 1px solid #fff; color: #fff; ">
+    <p>&copy; 2025 AgroSupport. All rights reserved.</p>
+  </div>
+</body>
+</html>

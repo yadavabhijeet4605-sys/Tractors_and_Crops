@@ -1,0 +1,93 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+            
+}
+.header {
+    background-color: #2E8B57; 
+}
+.navbar {
+    display: flex;
+    align-items: center;
+    background-color: #228B22; 
+    padding: 10px 20px;
+}
+.navbar .logo {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    margin-right: auto;
+}
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+}
+.navbar a:hover {
+    background-color: #1E6F43;
+    border-radius: 5px;
+}
+#page1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    width: 100vw;
+        background-image: url('https://wallpapercave.com/wp/wp9212753.jpg');
+        background-size: cover; /* Adjusts the image size */
+        background-position: center; /* Centers the image */
+        background-repeat: no-repeat; /* Prevents repeating */
+    }
+    
+    
+
+#info{
+    font-size: 35px;
+    color: white;
+    height: 400px;
+    width: 700px;
+    
+
+}
+#page2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    width: 100vw;
+        background-image: url('https://wallpapercave.com/wp/wp1886348.jpg');
+        background-size: cover; /* Adjusts the image size */
+        background-position: center; /* Centers the image */
+        background-repeat: no-repeat; /* Prevents repeating */
+    }
+    
+    
+
+#info1{
+    font-size: 35px;
+    color: white;
+    height: 400px;
+    width: 700px;
+    
+}
+#page3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    width: 100vw;
+        background-image: url('https://wallpapercave.com/wp/wp9212576.jpg');
+        background-size: cover; /* Adjusts the image size */
+        background-position: center; /* Centers the image */
+        background-repeat: no-repeat; /* Prevents repeating */
+    }
+    
+    
+
+#info2{
+    font-size: 35px;
+    color: white;
+    height: 400px;
+    width: 700px;
+    
+}
